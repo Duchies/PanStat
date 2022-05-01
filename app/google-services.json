@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "860685381634",
+    "project_id": "panstat-app",
+    "storage_bucket": "panstat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860685381634:android:3f795ac794b8ea3987371b",
+        "android_client_info": {
+          "package_name": "com.example.covistat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860685381634-ehj1adk0fphjcbubn5992du5dra63bon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4ncu_PTLsJGYtzPhUgSLvB0UtMSrO74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860685381634-ehj1adk0fphjcbubn5992du5dra63bon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860685381634:android:27f4cfb469a6b82787371b",
+        "android_client_info": {
+          "package_name": "com.example.covistatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860685381634-ehj1adk0fphjcbubn5992du5dra63bon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4ncu_PTLsJGYtzPhUgSLvB0UtMSrO74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860685381634-ehj1adk0fphjcbubn5992du5dra63bon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860685381634:android:e6a497cd42718d4487371b",
+        "android_client_info": {
+          "package_name": "com.team4.panstat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860685381634-6t87hn2kbdgqhqs406ibvvdm15jhk1de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team4.panstat",
+            "certificate_hash": "932afb7a4d65e9ba63238e05b64dcb75555df1f8"
+          }
+        },
+        {
+          "client_id": "860685381634-ehj1adk0fphjcbubn5992du5dra63bon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4ncu_PTLsJGYtzPhUgSLvB0UtMSrO74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860685381634-ehj1adk0fphjcbubn5992du5dra63bon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
